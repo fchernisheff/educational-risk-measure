@@ -1,7 +1,7 @@
 # educational-risk-measure
 ### Interactive form for measuring level of academic performance risk built on Streamlit and driven by a combined ML model created with usage of scikit-learn, xgboost, lightgbm and catboost on Python.
 
-Model is trained on a Kaggle dataset on behavioral psychology, welness, career development goals and objective academic performance on more than 1000 students (link to it: https://www.kaggle.com/datasets/nawazkhan3251/student-performance-and-behavioral-analytics-dataset). Overall accuracy on the test dataset is somewhere around 97.5-98 percent. Interactive interface is implemented on a local host using Streamlit tools. Results of model training is located in 'model' folder.
+Model is trained on a Kaggle dataset on behavioral psychology, welness, career development goals and objective academic performance on more than 1000 students (link to it: https://www.kaggle.com/datasets/nawazkhan3251/student-performance-and-behavioral-analytics-dataset). Overall accuracy on the test dataset is somewhere around 97.5-98 percent. Interactive interface is implemented on a local host using Streamlit tools. Results of model training are located in 'model' folder.
 
 ### How to run an application
 
